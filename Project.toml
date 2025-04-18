@@ -16,7 +16,7 @@ TestItems = "1c621080-faea-4a02-84b6-bbd5e436b8fe"
 
 [compat]
 ExponentialAction = "0.2"
-ForwardDiff = "0.10"
+ForwardDiff = "0.10, 1"
 LinearAlgebra = "1.10, 1.11"
 NamedTrajectories = "0.3"
 ProgressMeter = "1.10"
